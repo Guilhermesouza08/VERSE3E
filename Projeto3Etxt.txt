@@ -1,0 +1,3 @@
+06/04
+
+criei uma conta do GitHub, criei uma pasta chamada verse3e,Baixei o git for Windows, aceitei todos os termos, criei um arquivo dentro da pasta verse3e, e estou escrevendo oq fiz na aula de hj 

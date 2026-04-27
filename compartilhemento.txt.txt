@@ -14,3 +14,5 @@ Hj iremos aprender como compartilhar um arquivo .TXT. com uma colega, e iremos m
 Beatriz
 Hoje o Guilherme vai compartilhar um arquivo comigo.
 Conseguimos compartilhar, agora estou atualizando
+
+Deu certo o compartilhamento
